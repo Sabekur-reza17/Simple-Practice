@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ten Minute School Task</string>
+    <string name="MODEL">list</string>
+    <string name="position">position</string>
+    <string name="author_name">Author Name</string>
+    <string name="document">Document</string>
+    <string name="video">Video</string>
+    <string name="chapter">Chapter</string>
+</resources>
